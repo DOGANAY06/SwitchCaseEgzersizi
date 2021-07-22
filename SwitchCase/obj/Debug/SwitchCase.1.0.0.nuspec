@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SwitchCase</id>
+    <version>1.0.0</version>
+    <authors>SwitchCase</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net5.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Dogan\source\repos\WinFormsApp1\SwitchCase\bin\Debug\net5.0-windows\SwitchCase.runtimeconfig.json" target="lib\net5.0-windows7.0\SwitchCase.runtimeconfig.json" />
+    <file src="C:\Users\Dogan\source\repos\WinFormsApp1\SwitchCase\bin\Debug\net5.0-windows\SwitchCase.dll" target="lib\net5.0-windows7.0\SwitchCase.dll" />
+  </files>
+</package>
